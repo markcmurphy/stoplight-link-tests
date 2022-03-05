@@ -1,0 +1,335 @@
+{
+  "hide_powered_by": true,
+  "items": [
+    {
+      "id": "c2NoOjg3NzQ5MDE",
+      "title": "banners",
+      "href": "/theme-objects/banners",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MDE-banners",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MDI",
+      "title": "blog",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MDI-blog",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MDM",
+      "title": "brand",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MDM-brand",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjEyMTI5ODk3",
+      "title": "brand_results",
+      "type": "model",
+      "slug": "c2NoOjEyMTI5ODk3-brand-results",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MDQ",
+      "title": "brands",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MDQ-brands",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MDU",
+      "title": "breadcrumbs",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MDU-breadcrumbs",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MDY",
+      "title": "carousel",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MDY-carousel",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MDc",
+      "title": "cart",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MDc-cart",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MDg",
+      "title": "cart_id",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MDg-cart-id",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MDk",
+      "title": "categories",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MDk-categories",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MTA",
+      "title": "category",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MTA-category",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjEyMTI5ODk4",
+      "title": "category_results",
+      "type": "model",
+      "slug": "c2NoOjEyMTI5ODk4-category-results",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MTE",
+      "title": "checkout",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MTE-checkout",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MTI",
+      "title": "comparisons",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MTI-comparisons",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjEyMTI5ODk5",
+      "title": "content_results",
+      "type": "model",
+      "slug": "c2NoOjEyMTI5ODk5-content-results",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MTM",
+      "title": "countries",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MTM-countries",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MTQ",
+      "title": "create_account",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MTQ-create-account",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MTU",
+      "title": "currency_selector",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MTU-currency-selector",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MTY",
+      "title": "customer",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MTY-customer",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MTc",
+      "title": "customer_group_id",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MTc-customer-group-id",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MTg",
+      "title": "customer_group_name",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MTg-customer-group-name",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MTk",
+      "title": "downloads",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MTk-downloads",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MjA",
+      "title": "faceted_search",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MjA-faceted-search",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MjE",
+      "title": "footer",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MjE-footer",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MjI",
+      "title": "forms",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MjI-forms",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MjM",
+      "title": "head",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MjM-head",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MjQ",
+      "title": "is_ajax",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MjQ-is-ajax",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MjU",
+      "title": "order",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MjU-order",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MjY",
+      "title": "page",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MjY-page",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzUwMDc",
+      "title": "page_type",
+      "type": "model",
+      "slug": "c2NoOjg3NzUwMDc-page-type",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5Mjg",
+      "title": "pages",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5Mjg-pages",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg4NTI5NDI",
+      "title": "pagination",
+      "type": "model",
+      "slug": "c2NoOjg4NTI5NDI-pagination",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5Mjk",
+      "title": "product",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5Mjk-product",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjEyMTI5OTAw",
+      "title": "product_results",
+      "type": "model",
+      "slug": "c2NoOjEyMTI5OTAw-product-results",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MzA",
+      "title": "products",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MzA-products",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MzE",
+      "title": "remote_api_scripts",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MzE-remote-api-scripts",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MzI",
+      "title": "settings",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MzI-settings",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MzM",
+      "title": "shipments",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MzM-shipments",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MzQ",
+      "title": "shipping_messages",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MzQ-shipping-messages",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MzU",
+      "title": "shop_by_brand",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MzU-shop-by-brand",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg4NTI5NTA",
+      "title": "sitemap",
+      "type": "model",
+      "slug": "c2NoOjg4NTI5NTA-sitemap",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5MzY",
+      "title": "social_media",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5MzY-social-media",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg4NTI5NTI",
+      "title": "template_file",
+      "type": "model",
+      "slug": "c2NoOjg4NTI5NTI-template-file",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5Mzc",
+      "title": "theme_settings",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5Mzc-theme-settings",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5Mzg",
+      "title": "urls",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5Mzg-urls",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5Mzk",
+      "title": "vault",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5Mzk-vault",
+      "meta": ""
+    },
+    {
+      "id": "c2NoOjg3NzQ5NDA",
+      "title": "wishlist",
+      "type": "model",
+      "slug": "c2NoOjg3NzQ5NDA-wishlist",
+      "meta": ""
+    }
+  ]
+}

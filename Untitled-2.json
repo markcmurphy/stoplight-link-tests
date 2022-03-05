@@ -1,0 +1,461 @@
+{
+  "duplicates": [],
+  "singletons": [
+    {
+      "slug": "ZG9jOjIyMDcxNQ-common-objects",
+      "title": "Common Objects"
+    },
+    {
+      "slug": "ZG9jOjIyMDcxOQ-other-objects-and-properties-overview",
+      "title": "Other Objects and Properties Overview"
+    },
+    {
+      "slug": "ZG9jOjIyMDcwNQ-dynamic-content-rendering-on-stencil-storefronts",
+      "title": "Dynamic Content Rendering on Stencil Storefronts"
+    }
+  ],
+  "matches": [
+    {
+      "href": "/stencil-docs/getting-started/about-stencil",
+      "slug": "ZG9jOjIyMDY5Nw-about-stencil",
+      "title": "About Stencil"
+    },
+    {
+      "href": "/stencil-docs/getting-started/stencil-technology-stack",
+      "slug": "ZG9jOjIyMDY5OA-stencil-technology-stack",
+      "title": "Stencil Technology Stack"
+    },
+    {
+      "href": "/stencil-docs/getting-started/transitioning-to-stencil",
+      "slug": "ZG9jOjIyMDY5OQ-transitioning-to-stencil",
+      "title": "Transitioning to Stencil"
+    },
+    {
+      "href": "/stencil-docs/installing-stencil-cli/installing-stencil",
+      "slug": "ZG9jOjIyMDcwMA-installing-stencil-cli",
+      "title": "Installing Stencil CLI"
+    },
+    {
+      "href": "/stencil-docs/installing-stencil-cli/live-previewing-a-theme",
+      "slug": "ZG9jOjIyMDcwMQ-live-previewing-a-theme",
+      "title": "Live Previewing a Theme"
+    },
+    {
+      "href": "/stencil-docs/storefront-customization/theme-assets",
+      "slug": "ZG9jOjIyMDcyNA-theme-assets",
+      "title": "Theme Assets"
+    },
+    {
+      "href": "/stencil-docs/storefront-customization/custom-sass-functions",
+      "slug": "ZG9jOjIyMDcyMQ-custom-sass-functions",
+      "title": "Custom Sass Functions"
+    },
+    {
+      "href": "/stencil-docs/storefront-customization/using-front-matter",
+      "slug": "ZG9jOjIyMDcyNw-using-front-matter",
+      "title": "Using Front Matter"
+    },
+    {
+      "href": "/stencil-docs/storefront-customization/page-composition-and-styling",
+      "slug": "ZG9jOjIyMDcyMw-page-composition-and-styling",
+      "title": "Page Composition and Styling"
+    },
+    {
+      "href": "/stencil-docs/storefront-customization/custom-templates",
+      "slug": "ZG9jOjIyMDcyMg-custom-templates",
+      "title": "Custom Templates"
+    },
+    {
+      "href": "/stencil-docs/deploying-a-theme/checking-a-themes-size",
+      "slug": "ZG9jOjIyMDY4Mw-checking-a-theme-s-size",
+      "title": "Checking a Theme's Size"
+    },
+    {
+      "href": "/stencil-docs/deploying-a-theme/preparing-thumbnail-images",
+      "slug": "ZG9jOjIyMDY4NQ-preparing-thumbnail-images",
+      "title": "Preparing Thumbnail Images"
+    },
+    {
+      "href": "/stencil-docs/deploying-a-theme/bundling-and-pushing",
+      "slug": "ZG9jOjIyMDY4Mg-bundling-and-pushing-a-theme",
+      "title": "Bundling and Pushing a Theme"
+    },
+    {
+      "href": "/stencil-docs/deploying-a-theme/troubleshooting-theme-uploads",
+      "slug": "ZG9jOjIyMDY4Ng-troubleshooting-theme-uploads",
+      "title": "Troubleshooting Theme Uploads"
+    },
+    {
+      "href": "/stencil-docs/page-builder/theme-styles-configuration",
+      "slug": "ZG9jOjE0MzE5MzM-theme-styles-configuration",
+      "title": "Theme Styles Configuration"
+    },
+    {
+      "href": "/stencil-docs/page-builder/third-party-widgets",
+      "slug": "ZG9jOjIyMDcxNA-third-party-widgets",
+      "title": "Third-Party Widgets"
+    },
+    {
+      "href": "/stencil-docs/page-builder/widget-ui-schema",
+      "slug": "ZG9jOjE0MzE5MzY-widget-ui-schema",
+      "title": "Widget UI Schema"
+    },
+    {
+      "href": "/stencil-docs/localization/localizing-stores",
+      "slug": "ZG9jOjIyMDcxMA-localizing-stores",
+      "title": "Localizing Stores"
+    },
+    {
+      "href": "/stencil-docs/localization/multi-language-checkout",
+      "slug": "ZG9jOjIyMDcxMQ-multi-language-checkout",
+      "title": "Multi-Language Checkout"
+    },
+    {
+      "href": "/stencil-docs/localization/translation-keys",
+      "slug": "ZG9jOjIyMDcxMg-translation-keys",
+      "title": "Translation Keys"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/front-matter-reference",
+      "slug": "ZG9jOjIyMDcxNg-front-matter-reference",
+      "title": "Front Matter Reference"
+    },
+    {
+      "href": "/stencil-docs/javascript-and-event-hooks/customizing-javascript",
+      "slug": "ZG9jOjIyMDcwNA-customizing-javascript",
+      "title": "Customizing Javascript"
+    },
+    {
+      "href": "/stencil-docs/javascript-and-event-hooks/event-hooks",
+      "slug": "ZG9jOjIyMDcwNg-event-hooks",
+      "title": "Event Hooks"
+    },
+    {
+      "href": "/stencil-docs/javascript-and-event-hooks/remote-api-tutorial",
+      "slug": "ZG9jOjIyMDcwOA-remote-api-tutorial",
+      "title": "Remote API Tutorial"
+    },
+    {
+      "href": "/stencil-docs/javascript-and-event-hooks/rendering-html-with-ajax",
+      "slug": "ZG9jOjIyMDcwOQ-rendering-html-with-ajax",
+      "title": "Rendering HTML with Ajax"
+    },
+    {
+      "href": "/stencil-docs/developing-further/updates/add-recaptcha-v2",
+      "slug": "ZG9jOjIyMDY4Nw-add-re-captcha-v2",
+      "title": "Add reCAPTCHA V2"
+    },
+    {
+      "href": "/stencil-docs/developing-further/catalog-price-object",
+      "slug": "ZG9jOjIyMDY4OA-catalog-price-object-examples",
+      "title": "Catalog Price Object Examples"
+    },
+    {
+      "href": "/stencil-docs/developing-further/modifying-forms",
+      "slug": "ZG9jOjIyMDY5NA-modify-the-login-form",
+      "title": "Modify the Login Form"
+    },
+    {
+      "href": "/stencil-docs/installing-stencil-cli/stencil-cli-options-and-commands",
+      "slug": "ZG9jOjIyMDcwMg-stencil-cli-options-and-commands",
+      "title": "Stencil CLI Options and Commands"
+    },
+    {
+      "href": "/stencil-docs/installing-stencil-cli/troubleshooting-your-setup",
+      "slug": "ZG9jOjIyMDcwMw-troubleshooting-your-setup",
+      "title": "Troubleshooting Your Setup"
+    },
+    {
+      "href": "/stencil-docs/accessibility/theme-accessibility",
+      "slug": "ZG9jOjczNzM1OTc-developing-themes-for-accessibility",
+      "title": "Developing Themes for Accessibility"
+    },
+    {
+      "href": "/stencil-docs/storefront-customization/using-disqus",
+      "slug": "ZG9jOjIyMDcyNQ-custom-fonts-and-icons",
+      "title": "Custom Fonts and Icons"
+    },
+    {
+      "href": "/stencil-docs/deploying-a-theme/naming-your-theme",
+      "slug": "ZG9jOjIyMDY4NA-naming-your-theme-and-theme-variations",
+      "title": "Naming Your Theme and Theme Variations"
+    },
+    {
+      "href": "/stencil-docs/page-builder/page-builder-overview",
+      "slug": "ZG9jOjIyMDcxMw-page-builder-overview",
+      "title": "Page Builder Overview"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/global-objects-and-properties",
+      "slug": "ZG9jOjIyMDcxNw-global-objects-and-properties",
+      "title": "Global Objects and Properties"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/stencil-utils-api-reference",
+      "slug": "ZG9jOjIyMDcyMA-stencil-utils-reference",
+      "title": "Stencil Utils Reference"
+    },
+    {
+      "href": "/stencil-docs/javascript-and-event-hooks/adding-javascript",
+      "slug": "ZG9jOjEyNDYyOTg-adding-javascript-to-your-stencil-theme",
+      "title": "Adding Javascript to Your Stencil Theme"
+    },
+    {
+      "href": "/stencil-docs/javascript-and-event-hooks/npm-tutorials",
+      "slug": "ZG9jOjIyMDcwNw-adding-npm-packages-to-a-theme",
+      "title": "Adding npm Packages to a Theme"
+    },
+    {
+      "href": "/stencil-docs/developing-further/customizing-invoices",
+      "slug": "ZG9jOjIyMDY5MA-customizing-invoices",
+      "title": "Customizing Invoices"
+    },
+    {
+      "href": "/stencil-docs/developing-further/customizing-printable-packing-slips",
+      "slug": "ZG9jOjIyMDY5MQ-customizing-printable-packing-slips",
+      "title": "Customizing Printable Packing Slips"
+    },
+    {
+      "href": "/stencil-docs/developing-further/updates/google-amp",
+      "slug": "ZG9jOjIyMDY5Mg-google-amp",
+      "title": "Google AMP"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/handlebars-helpers-reference",
+      "slug": "ZG9jOjIyMDcxOA-handlebars-helpers-reference",
+      "title": "Handlebars Helpers Reference"
+    },
+    {
+      "href": "/stencil-docs/developing-further/customizing-emails",
+      "slug": "ZG9jOjIyMDY4OQ-big-commerce-email-templates",
+      "title": "BigCommerce Email Templates"
+    },
+    {
+      "href": "/stencil-docs/developing-further/updates/google-analytics-enhanced-ecommerce",
+      "slug": "ZG9jOjIyMDY5Mw-google-analytics-enhanced-e-commerce",
+      "title": "Google Analytics Enhanced ECommerce"
+    },
+    {
+      "href": "/stencil-docs/developing-further/updates/stored-credit-card-management",
+      "slug": "ZG9jOjIyMDY5NQ-stored-payment-methods",
+      "title": "Stored Payment Methods"
+    },
+    {
+      "href": "/stencil-docs/deploying-a-theme/theme-updates-and-version-control",
+      "slug": "ZG9jOjIyMDY5Ng-theme-updates-and-version-control",
+      "title": "Theme Updates and Version Control"
+    },
+    {
+      "slug": "ZG9jOjI2Njk3NDM2-translating-regions",
+      "href": "/stencil-docs/localization/translating-regions",
+      "title": "Translating Regions"
+    },
+    {
+      "slug": "ZG9jOjEzODY0Nzg2-localization-tutorial",
+      "href": "/stencil-docs/localization/localization-tutorial",
+      "title": "Localization Tutorial"
+    },
+    {
+      "slug": "ZG9jOjczNzM1NTU-theme-development-best-practices-tutorial",
+      "href": "/stencil-docs/deploying-a-theme/theme-best-practices",
+      "title": "Theme Best Practices"
+    },
+    {
+      "slug": "ZG9jOjIyMDY4MQ-pay-pal-smart-buttons",
+      "href": "/stencil-docs/developing-further/updates/paypal-smart-buttons",
+      "title": "Enable PayPal Smart Buttons"
+    },
+    {
+      "slug": "ZG9jOjEzODY0NzQ3-the-b2-b-edition-of-big-commerce",
+      "href": "/stencil-docs/developing-further/bundleb2b",
+      "title": "BundleB2B"
+    },
+    {
+      "slug": "ZG9jOjIyMDY3NA-defining-global-styles",
+      "href": "/stencil-docs/page-builder/defining-global-styles",
+      "title": "Defining Global Styles"
+    },
+    {
+      "slug": "ZG9jOjEzODY0ODAx-wcag-compliance-levels",
+      "href": "/stencil-docs/accessibility/WCAG-compliance-levels",
+      "title": "WCAG Compliance Levels"
+    },
+    {
+      "slug": "ZG9jOjEzODY0ODA0-implementing-wcag-guidelines-examples",
+      "href": "/stencil-docs/accessibility/implementing-WCAG-guidelines",
+      "title": "Implementing WCAG Guidelines - Examples"
+    },
+    {
+      "slug": "ZG9jOjIyMDcyNQ-custom-fonts-and-icons",
+      "href": "/stencil-docs/storefront-customization/using-custom-fonts-and-icons",
+      "title": "Fonts and Icons"
+    },
+    {
+      "slug": "ZG9jOjE2OTAwNzE5-localizing-variation-descriptions",
+      "href": "/stencil-docs/storefront-customization/localizing-variation-descriptions",
+      "title": "Localizing Variation Descriptions"
+    },
+    {
+      "slug": "ZG9jOjIyMDY4MA-restyle-optimized-one-page-checkout",
+      "href": "/stencil-docs/customizing-checkout/optimized-one-page-checkout",
+      "title": "Restyle Optimized One-Page Checkout"
+    },
+    {
+      "slug": "ZG9jOjIyMDY3Nw-checkout-confirmation-injection-options",
+      "href": "/stencil-docs/customizing-checkout/checkout-confirmation-injection",
+      "title": "Checkout/Confirmation Injection Options"
+    },
+    {
+      "slug": "ZG9jOjIyMDU5MA-checkout-sdk",
+      "href": "/stencil-docs/customizing-checkout/checkout-sdk",
+      "title": "Checkout SDK"
+    },
+    {
+      "slug": "ZG9jOjIyMDY3OA-checkout-sdk-tutorial",
+      "href": "/stencil-docs/customizing-checkout/checkout-sdk-quickstart",
+      "title": "Checkout SDK Tutorial"
+    },
+    {
+      "slug": "ZG9jOjEyNDYxODQ-installing-a-custom-checkout",
+      "href": "/stencil-docs/customizing-checkout/installing-custom-checkouts",
+      "title": "Installing Custom Checkouts"
+    }
+  ],
+  "schema-settings": [
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/alignment",
+      "title": "Alignment"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/boolean",
+      "title": "Boolean"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/box-model",
+      "title": "Box Model"
+    },
+    {
+      "href": "/stencil-docs/page-builder/schema-settings/code",
+      "title": "Code"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/color",
+      "title": "Color"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/element-settings",
+      "title": "Element Settings"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/image-manager",
+      "title": "Image Manager"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/input",
+      "title": "Input"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/number",
+      "title": "Number"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/product-id",
+      "title": "Product ID"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/product-image",
+      "title": "Product Image"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/range",
+      "title": "Range"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/regex-input",
+      "title": "Regex Input"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/select",
+      "title": "Select"
+    },
+    {
+      "slug": "",
+      "href": "/stencil-docs/page-builder/schema-settings/text",
+      "title": "Text"
+    },
+    {
+      "href": "/stencil-docs/page-builder/schema-settings/typography",
+      "title": "Typography"
+    },
+    {
+      "href": "/stencil-docs/page-builder/schema-settings/visibility",
+      "title": "Visibility"
+    }
+  ],
+  "styles-and-properties": [
+    {
+      "href": "/stencil-docs/reference-docs/styles-and-properties/checkbox",
+      "title": "checkbox"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/styles-and-properties/color",
+      "title": "color"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/styles-and-properties/font",
+      "title": "font"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/styles-and-properties/heading",
+      "title": "heading"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/styles-and-properties/imageDimension",
+      "title": "imageDimension"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/styles-and-properties/optimizedCheckout-image",
+      "title": "optimizedCheckout-image"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/styles-and-properties/reference",
+      "title": "reference"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/styles-and-properties/select",
+      "title": "select"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/styles-and-properties/text",
+      "title": "text"
+    }
+  ],
+  "content": [],
+  "pool": [
+    {
+      "href": "/stencil-docs/storefront-customization/directory-structure",
+      "title": "Directory Structure"
+    },
+    {
+      "href": "/stencil-docs/reference-docs/new-subpage",
+      "title": "config.json"
+    },
+    {
+      "href": "/stencil-docs/customizing-checkout/open-checkout-quick-start",
+      "title": "Open Checkout Tutorial"
+    }
+  ]
+}
